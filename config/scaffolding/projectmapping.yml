@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: AbhkextgitProject
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: fld_156829132_stage00.projects.fl82d291afa02048b0b3d822fae6537c1e.integrations:pkgservice
+    type: flow
+    stepId: /0
+    reference: fld_156829132_stage00.projects.fl82d291afa02048b0b3d822fae6537c1e.WmPackageServiceProvider.HA:ForHAFlow
