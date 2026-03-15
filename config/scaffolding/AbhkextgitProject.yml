@@ -8,6 +8,12 @@ packages:
   gitUsername: ak879753
   gitBranch: main
 - name: ServicePackage
+  version: "1.0"
+  gitServerName: abhk
+  gitUrl: https://github.com/ak879753
+  gitUsername: ak879753
+  gitBranch: main
+- name: AbhiPackages
   gitServerName: abhk
   gitUrl: https://github.com/ak879753
   gitUsername: ak879753
